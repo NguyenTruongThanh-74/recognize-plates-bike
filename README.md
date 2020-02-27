@@ -1,4 +1,5 @@
 # recognize-plates-bike
+link demo : https://www.youtube.com/watch?v=2okC2w9EhjE
 run : python Main.py run(press enter to show step)
 The project use tensorflow and cv2.
 -file Model contain the param of model it had trained(I trained in google colab )
